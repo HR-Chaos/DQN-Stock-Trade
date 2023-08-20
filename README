@@ -1,0 +1,3 @@
+conda env: dirac
+method: DQN
+Sentiment analysis: try reddit, twitter and Alpha Vantage APIs to help. Take a look at some other sentiment analysis to see how stocks are affected by the news they pull.
